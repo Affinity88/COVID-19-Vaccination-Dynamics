@@ -1,4 +1,4 @@
-# COVID-19-Vaccination-Dynamics
+# COVID-19-Vaccination Dynamics
 This project analyzes the dynamics of COVID-19 Vaccination from December 13th, 2020 - April 5th, 2021. 
 Key questions based off on the "Track the Progress of Covid-19 Vaccination: Spring Edition" https://www.kaggle.com/gpreda/covid-world-vaccination-progress/tasks?taskId=3897 
 data files were also derived from Gabriel Preda's "country_vaccinations.csv"
